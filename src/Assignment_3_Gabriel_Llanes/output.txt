@@ -1,0 +1,11 @@
+Coin Name: $50 GOld Buffalo
+Gold Price: 9.95
+Coin Price: 1242.3
+Shipping and Handling: 4.95
+Tax Rate: 0.075
+Milligrams of Gold in Coin: 14.0
+Number of coins for an ounce: 2025.0
+Premium Amount: 1516.10625
+Modified Gold Price: 1655.5
+Modified Premium Amount: 251434.0125
+BUILD SUCCESSFUL (total time: 0 seconds)
